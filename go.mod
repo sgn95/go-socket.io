@@ -1,4 +1,4 @@
-module github.com/sgn/go-socket.io
+module github.com/sgn95/go-socket.io
 
 go 1.16
 
